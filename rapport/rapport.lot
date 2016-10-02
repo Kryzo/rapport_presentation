@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Results of the study performed on the MFCC features. Labels taken as 16 class of instruments, 32 classes of instruments with variation, 498 classes of techniques of play}}{14}{table.2.1}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Comparison between MFCC before and after standardization for the 16 classes of instruments, 32 classes of instruments with variation, 498 classes of playing techniques}}{15}{table.2.2}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Table comparing the results of applying metric ranking to different window length for the scattering transform.}}{19}{table.2.3}
+\contentsline {table}{\numberline {2.4}{\ignorespaces Table comparing the results of applying metric ranking to different technique of preprocessing on a scattering with T=250ms considering 16 class of instruments}}{20}{table.2.4}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Results of applying the MFCC and the scattering to the perpectual mapping.}}{23}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Comparison between the P@5 before and after LMNN for feature extracted using the MFCC and the scattering with T=250ms}}{28}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Comparison between the MAP before and after LMNN for feature extracted using the MFCC and the scattering with T=250ms}}{28}{table.3.3}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Results of the MAP for the division of the space into a part for train and a part for test}}{29}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Results of the P@5 for the division of the space into a part for train and a part for test}}{29}{table.3.5}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Table showing the comparison between the scattering and the MFCC with the same number of features (666) before and after applying the LMNN}}{30}{table.3.6}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Results of summing the distances and summing the projection matrix L}}{31}{table.3.7}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Results of weigthing the sum}}{35}{table.3.8}
+\contentsline {table}{\numberline {3.9}{\ignorespaces Results of normalizing the distances}}{35}{table.3.9}
+\contentsline {table}{\numberline {3.10}{\ignorespaces Results of applying class matching before using LMNN}}{36}{table.3.10}
